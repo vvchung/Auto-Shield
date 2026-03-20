@@ -43,7 +43,42 @@
 
 1. **嚇阻效應**：建立「凡查必留痕，AI 必監控」的威懾力。
 2. **即時阻斷**：在異常行為發生的初期即發出警示，防止個資流向不法用途。
-3. **廉正轉型**：協助高雄市政府建立全國領先的 AI 廉正治理標竿。
+3. **廉正轉型**：協助高雄市政府建立 AI 廉正治理標竿。
+
+---
+
+## 🚀 啟動與部署您的 AI Studio 應用程式
+
+這裡有您在自家電腦上運行 App 所需的一切寶貝！
+
+👀 **在 AI Studio 瞧瞧您的 App：** 
+[https://aistudio.google.com/apps/0ea15ace-607b-49cb-9a08-44d6000b4bbe?fullscreenApplet=true&showPreview=true&showAssistant=true](https://aistudio.google.com/apps/0ea15ace-607b-49cb-9a08-44d6000b4bbe?fullscreenApplet=true&showPreview=true&showAssistant=true)
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+### 💻 在本機端運行
+
+1. **複製專案：**
+   ```bash
+   git clone https://github.com/vvchung/StudyAbroadCoPilot.git
+   cd StudyAbroadCoPilot
+   ```
+
+2. **安裝依賴：**
+   ```bash
+   npm install
+   ```
+
+3. **設定環境變數：**
+   在根目錄建立 `.env` 檔案，並加入您的 Gemini API Key：
+   ```env
+   GEMINI_API_KEY=您的_API_KEY
+   ```
+
+4. **啟動開發伺服器：**
+   ```bash
+   npm run dev
+   ```
+   開啟瀏覽器並訪問 `http://localhost:3000` 即可看到 App 運行！
 
 ---
 
