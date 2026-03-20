@@ -1,0 +1,5 @@
+{
+  "name": "高雄市社安網廉正監測哨兵 (Auto-Shield)",
+  "description": "基於 Andrej Karpathy 的 AutoResearch 邏輯，專為社安網設計之 AI 異常行為監控系統，旨在防制狼社工濫用職權查詢個資。",
+  "requestFramePermissions": []
+}
