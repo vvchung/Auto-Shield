@@ -10,7 +10,7 @@
 
 目前的社安網個資查詢系統，多半依賴事後的抽查與檢舉。然而，當「狼社工」或不肖公職人員濫用職權，在深夜、跨區、頻繁地查詢未成年或受暴婦女個資時，傷害往往已經造成。
 
-**Auto-Shield** 是一套基於 Andrej Karpathy **AutoResearch** 概念開發的 AI 廉正監測系統。它不只是一個靜態的規則引擎，而是一個經過上百次模擬迭代、具備自我演化能力的「數位哨兵」。
+**Auto-Shield** 是一套基於 Andrej Karpathy **[AutoResearch](https://github.com/karpathy/autoresearch)** 概念開發的 AI 廉正監測系統。它不只是一個靜態的規則引擎，而是一個經過上百次模擬迭代、具備自我演化能力的「數位哨兵」。
 
 ---
 
